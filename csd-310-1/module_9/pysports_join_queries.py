@@ -1,3 +1,5 @@
+#Larissa Passamani Lima / Assignment 9.2
+
 import mysql.connector
 from mysql.connector import errorcode
 
